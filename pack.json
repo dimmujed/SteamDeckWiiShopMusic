@@ -1,9 +1,0 @@
-{
-  "name": "Wii Shop Music",
-  "description": "The classic bop from the Wii Shop.",
-  "author": "DimmuJed",
-  "version": "v1.0",
-  "manifest_version": 1,
-  "music": true,
-  "ignore": []
-}
