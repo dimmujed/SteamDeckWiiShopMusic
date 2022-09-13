@@ -4,6 +4,6 @@
   "author": "DimmuJed",
   "version": "v1.0",
   "manifest_version": 1,
-  "music": false,
+  "music": true,
   "ignore": []
 }
